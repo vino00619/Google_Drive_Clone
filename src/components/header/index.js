@@ -12,6 +12,7 @@ const index = () => {
             </div>
             <div className='header_searchContainer'>
                 <SearchIcon />
+                <ExpandMoreIcon />
             </div>
             <div className='header_icons'></div>
         </div>
